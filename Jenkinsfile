@@ -1,4 +1,4 @@
-node {
+pipeline  {
    
    	stage 'Stage 1'
    		echo 'Hello there, shell scripts'
